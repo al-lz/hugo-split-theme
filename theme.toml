@@ -7,7 +7,7 @@ description = "Split is a centrally-divided layout for a professional online pre
 homepage = "//github.com/escalate/hugo-split-theme"
 tags = ["minimal", "onepage", "one page", "responsive", "personal"]
 features = []
-min_version = "0.120"
+min_version = "0.123.7"
 
 authors = [
   {name = "Christian Mendoza", homepage = "https://iamchristian.me/ndoza"},
